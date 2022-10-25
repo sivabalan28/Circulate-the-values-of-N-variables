@@ -17,6 +17,9 @@ Using the slicing concept rotate the list
 print the output 
 ## Program:
 ```python 
+#Program to circulate n variables using function
+#Developed by: Sivabalan S
+#Register number: 22004401
 def circulate():
     a=eval(input())
     n=int(input())
